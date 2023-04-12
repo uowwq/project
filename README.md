@@ -25,6 +25,10 @@
 
 # задание 3_1
 
+<div align = "center">
+<img src="task3_1">
+</div>
+
 # задание 4
 
 <h4 align = "center">главная страница сайта</h4>
