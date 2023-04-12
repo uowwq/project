@@ -25,12 +25,15 @@
 
 # задание 3_1
 
+<div align = "center">
+<img src="task3_1">
+</div>
+
 # задание 4
 
 <h4 align = "center">главная страница сайта</h4>
 <img src="site1.png">
 <img src="site2.png">
-
 <h4 align = "center">новинки</h4>
 <img src="site3.png">
 <h4 align = "center">бренды</h4>
