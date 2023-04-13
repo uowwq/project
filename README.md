@@ -26,7 +26,7 @@
 # задание 3_1
 
 <div align = "center">
-<img src="task3_1.png">
+<img src=" ">
 </div>
 
 # задание 4
